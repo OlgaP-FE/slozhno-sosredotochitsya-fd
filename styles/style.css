@@ -149,7 +149,7 @@
 }
 
 .content-title {
-  color: var(--text-color-light);
+  color: var(--content-title);
   margin-block-end: 20px;
   font-weight: var(--bold-weight, 700);
   font-size: var(--main-font-size, 18px);
@@ -159,6 +159,7 @@
   color: var(--text-color-light);
   line-height: 23.4px;
   margin-block-end: 10px;
+  font-weight: var(--normal-weight);
 }
 
 .content-list-item {
