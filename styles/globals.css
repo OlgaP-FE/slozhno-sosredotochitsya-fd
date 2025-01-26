@@ -41,9 +41,9 @@ a {
   line-height: inherit;
 }
 
-button:focus,
+/*button:focus,
 button:focus-visible,
 a:focus,
 a:focus-visible {
   outline: none;
-}
+}*/
