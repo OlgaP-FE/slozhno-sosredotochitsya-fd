@@ -404,6 +404,7 @@ h4 {
 
   .header__theme-menu-list {
     flex-direction: row;
+    padding-block-start: 3px;
   }
 
   .header-title {
@@ -412,7 +413,6 @@ h4 {
 
   .header-text {
     padding-inline-end: 0;
-    
   }
 
   .content-section {
