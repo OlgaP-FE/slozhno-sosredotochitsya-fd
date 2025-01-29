@@ -107,6 +107,7 @@
 
 .header__theme-menu-button:focus-visible {
   border-block-end: 1px solid var(--title-menu-color);
+  outline: none;
 }
 
 .big-title {
