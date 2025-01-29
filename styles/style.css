@@ -110,6 +110,10 @@
   outline: none;
 }
 
+.header__theme-menu-button:focus {
+  outline: none;
+}
+
 .big-title {
   color: var(--main-title-color);
   font-weight: var(--bold-weight, 700);
